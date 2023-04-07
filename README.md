@@ -6,7 +6,7 @@
 
 #
 
-<div style="display: flex; justify-content: center;">
+<div style="text-align: center;">
        <img height="240em" src="https://github-readme-activity-graph.cyclic.app/graph?username=AllanC12&theme=react-dark" alt="github stats"/>
 </div>
 
