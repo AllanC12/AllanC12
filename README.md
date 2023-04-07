@@ -11,7 +11,7 @@
 </div>
 
 #
-<div  style="display: flex; justify-content: space-around">
+<div align="center" style="display: flex; justify-content: space-around">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AllanC12&show_icons=true&theme=dracula" alt="github stats"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanC12&layout=compact&theme=dracula" alt="lingugens mais utilizadas">
 </div>
