@@ -44,5 +44,6 @@
    </a>
 </div>
 
-![Snake gif](https://github.com/AllanC12/AllanC12/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/AllanC12/AllanC12/blob/output/github-contribution-grid-snake.svg)
+
 
