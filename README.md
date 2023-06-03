@@ -8,7 +8,7 @@
 
 
 <div align="center">
-  <img src=".github/workflows/joy.gif"/> 
+  <img width="300px" height="300px" src=".github/workflows/joy.gif"/> 
 </div>
 
 #
