@@ -6,10 +6,9 @@
 
 #
 
-<script defer type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <div align="center">
-  <img src=".github/workfows/joy.gif"/> 
+  <img src=".github/workflows/joy.gif"/> 
 </div>
 
 #
