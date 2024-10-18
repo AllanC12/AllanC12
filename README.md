@@ -1,7 +1,7 @@
 
 ### 
  - ✌️ Olá , Eu sou o Allan.
- - 💻 Atualmente sou aluno do curso de Análise e desenvolvimento de sistemas e estudante de desenvolvimento Front End.
+ - 💻 Atualmente sou formado em Análise e desenvolvimento de sistemas e um entusiasta da área de programação.
  - 🫡 Seja Bem vindo!!!
 
 #
