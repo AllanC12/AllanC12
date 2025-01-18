@@ -19,7 +19,7 @@
 
 # 
 
-<div style="background-color: #f0f0f0;" align="center" style="margin-top: 20px;">
+<div align="center" style="margin-top: 20px; background-color: #f0f0f0;">
    <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
    <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
    <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
