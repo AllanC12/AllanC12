@@ -51,8 +51,3 @@
      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=""/>
    </a>
 </div>
-![snake gif](https://raw.githubusercontent.com/AllanC12/AllanC12/output/github-contribution-grid-snake.svg)
-
-
-
-  
