@@ -1,4 +1,3 @@
-<img width="212" height="85" alt="image" src="https://github.com/user-attachments/assets/40c6aaec-6673-44f3-b741-f1fa768f642a" />
 ### 
  - ✌️ Olá , Eu sou o Allan.
  - 💻 Atualmente sou formado em Análise e desenvolvimento de sistemas e um entusiasta da área de programação.
@@ -57,4 +56,5 @@
    </a>
 </div>
 
+![snake animation](./dist/github-contribution-grid-snake.svg)
 
