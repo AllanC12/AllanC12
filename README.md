@@ -56,5 +56,5 @@
    </a>
 </div>
 
-![snake animation](./dist/github-contribution-grid-snake.svg)
+![snake animation dark](./dist/github-contribution-grid-snake-dark.svg)
 
