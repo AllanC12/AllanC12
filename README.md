@@ -48,7 +48,7 @@
    <a  target="_blank" href="https://wa.me/+5537998287395">
      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt=""/>
    </a>
-   <a  target="_blank" href="https://www.instagram.com/allancandido78/?next=%2F">
+   <a  target="_blank" href="https://www.instagram.com/ansoft3?igsh=ZzB5c2Ztd2prZjAx">
      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=""/>
    </a>
    <a  target="_blank" href="mailto:allandevfront@gmail.com">
